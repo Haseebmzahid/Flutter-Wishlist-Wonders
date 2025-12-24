@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "207361856408",
+    "firebase_url": "https://mad-final-dcfa6-default-rtdb.firebaseio.com",
+    "project_id": "mad-final-dcfa6",
+    "storage_bucket": "mad-final-dcfa6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207361856408:android:f95a19f1fa1c2cd47fd1ed",
+        "android_client_info": {
+          "package_name": "com.example.wishlistwonders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3CuabrcHqrlj9wlIu0geISFY6YkIvgYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
