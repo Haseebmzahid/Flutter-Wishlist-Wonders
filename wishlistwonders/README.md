@@ -11,8 +11,5 @@ A Flutter mobile application built as part of my learning journey in Software En
 - Flutter
 - Dart
 
-## Screenshots
-(Add screenshots here)
-
 ## Author
-Haseeb Zahid
+M.Haseeb 
